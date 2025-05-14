@@ -1,12 +1,12 @@
 # marketing-analytics-subscription-strategy
 Marketing analytics and customer segmentation project analyzing acquisition channels, platform engagement, and regional performance to inform a subscription pricing strategy.
-# 📈 Subscription Market Analysis & Customer Segmentation
+# Subscription Market Analysis & Customer Segmentation
 
 This project analyzes customer acquisition channels, engagement behavior, and regional metrics to design a **targeted subscription pricing strategy**. It evaluates platform usage data and survey results to inform where and how to launch a $60/month plan for a learning platform.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To recommend **pricing and market entry strategies** by:
 - Identifying top-performing **customer acquisition channels**
@@ -16,7 +16,7 @@ To recommend **pricing and market entry strategies** by:
 
 ---
 
-## ⚙️ Tools & Techniques
+## Tools & Techniques
 
 - Python (Pandas, Matplotlib, Seaborn)
 - Survey & platform data analysis
@@ -26,7 +26,7 @@ To recommend **pricing and market entry strategies** by:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Top Channels**: Facebook and YouTube drove the highest engagement (avg. 3000+ minutes watched)
 - **Top Regions**: India and the U.S. showed the largest learner bases
@@ -35,7 +35,7 @@ To recommend **pricing and market entry strategies** by:
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 1. Focus on **Facebook, YouTube, and Google** for campaign spend
 2. Launch $60/month subscription in **India and the U.S.**, with **localized pricing** for price-sensitive markets
@@ -44,14 +44,14 @@ To recommend **pricing and market entry strategies** by:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `A2_Team6_.ipynb` – Full analysis and visuals
 - `A2-Business Report-Team6.pdf` – Executive summary and final recommendations
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `#marketing-analytics` `#subscription-strategy` `#customer-segmentation`  
 `#user-engagement` `#python` `#platform-analytics` `#pricing-modeling`
